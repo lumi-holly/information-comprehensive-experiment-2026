@@ -1,0 +1,4 @@
+numpy>=2.0
+cryptography>=43
+# 麦克风实时采集和播放时再安装：sounddevice>=0.5
+
