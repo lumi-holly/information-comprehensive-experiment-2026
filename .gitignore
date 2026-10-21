@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+python_results/
+*.wav
+*.npz
+*.png
+~$*
+
