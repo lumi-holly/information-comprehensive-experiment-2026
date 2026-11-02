@@ -1,0 +1,19 @@
+{
+  ".gitignore": "759744286d6a8becfd083a31a6ab52a66c5320efd90d151ce8d0dd31189277a7",
+  "app.py": "4a79a3e3235be1f13d2f8086491105210ffd9fd7802918fcb14f4223b61e554e",
+  "audio_capture.py": "031bfdeb64c18af7dd6d6c018db5d9880871403e3111938a633ea4abd65d7cc1",
+  "audio_dsp.py": "ae517fff24accd176e9a931b2142e37a2a9ec6ee81768c79ded30bf6f36e39c9",
+  "codec.py": "4f3086fc97e11ba1fd4bbbea0ad6332dd4b0b3671ac066b1c1ca8e8de82bcafa",
+  "COURSE_REQUIREMENTS.md": "552dd29833830d35c3e6ccf56ec3b97707f9554e15280bcb07b60b948dc8a152",
+  "network_io.py": "d644e7c885368ca857f53f516b9a4aa20acd07b197a2ce6d9fa62d91bb38b384",
+  "README.md": "66f334bf9299525722e555c62a641bd67b0adf064c0c07d07ae7ae6fd925a7cc",
+  "requirements-audio.txt": "826b18d12db9dc7b082f80ce0e80257e9efc41bca2059bc03c6f73888584a88b",
+  "requirements.txt": "a3495b6839b03d3220c02d96cc647b2a16ae68673af5de08082c66e7d29b9e9a",
+  "TEST_RESULTS.md": "28a9c1b55efab7c3d394e6de3649bebdbd84b8eb7bc9e03953c681d1cf07aa01",
+  "tests/test_audio_capture.py": "03bb1f007a51cef281b286adf4d27d6e3b2f2a72660b5d77db5b787ca62a93e8",
+  "tests/test_audio_dsp.py": "9329198b0ed9593aaf09e0070b377c40c7e92874f70de73838512140fdcbdade",
+  "tests/test_codec.py": "d98632acb75b6ca5f209336782a305a1e8d6f2c4f069ec62431c23217b7930dd",
+  "tests/test_session_security.py": "eab47385149e11fd55e3512d193ee4ab3dc3e30ce9a3ffd650c96fcec8c0f6b7",
+  "tests/test_system.py": "1aea2b02d054902a6d9d3ede3ac72b93853798caeb979ed098898fff9a60fc14",
+  "validation/unit_tests.log": "fe7a90f028eb8bcca816fed46b7a54b9b897543bfc19eae59be1675903868068"
+}

@@ -1,0 +1,36 @@
+test_close_unblocks_read_and_is_idempotent (test_audio_capture.AudioCaptureTests.test_close_unblocks_read_and_is_idempotent) ... ok
+test_exact_total_and_last_partial_block (test_audio_capture.AudioCaptureTests.test_exact_total_and_last_partial_block) ... ok
+test_full_queue_fails_without_dropping (test_audio_capture.AudioCaptureTests.test_full_queue_fails_without_dropping) ... ok
+test_input_overflow_fails_in_consumer (test_audio_capture.AudioCaptureTests.test_input_overflow_fails_in_consumer) ... ok
+test_invalid_read_size_and_constructor (test_audio_capture.AudioCaptureTests.test_invalid_read_size_and_constructor) ... ok
+test_add_tone_preserves_chunk_phase (test_audio_dsp.AudioDSPTests.test_add_tone_preserves_chunk_phase) ... ok
+test_analysis_and_csv_boundaries (test_audio_dsp.AudioDSPTests.test_analysis_and_csv_boundaries) ... ok
+test_filter_block_continuity (test_audio_dsp.AudioDSPTests.test_filter_block_continuity) ... ok
+test_filter_suppresses_out_of_band_tone (test_audio_dsp.AudioDSPTests.test_filter_suppresses_out_of_band_tone) ... ok
+test_invalid_design_and_nyquist (test_audio_dsp.AudioDSPTests.test_invalid_design_and_nyquist) ... ok
+test_metrics_delay_and_json_finiteness (test_audio_dsp.AudioDSPTests.test_metrics_delay_and_json_finiteness) ... ok
+test_pcm_io_full_scale_and_stereo (test_audio_dsp.AudioDSPTests.test_pcm_io_full_scale_and_stereo) ... ok
+test_all_hamming_nibbles_all_single_errors (test_codec.CodecTests.test_all_hamming_nibbles_all_single_errors) ... ok
+test_all_mode_combinations (test_codec.CodecTests.test_all_mode_combinations) ... ok
+test_boolean_sample_count_rejected (test_codec.CodecTests.test_boolean_sample_count_rejected) ... ok
+test_double_error_hamming_is_rejected_by_hmac (test_codec.CodecTests.test_double_error_hamming_is_rejected_by_hmac) ... ok
+test_dpcm_matches_independent_matlab_recurrence (test_codec.CodecTests.test_dpcm_matches_independent_matlab_recurrence) ... ok
+test_hamming_byte_padding (test_codec.CodecTests.test_hamming_byte_padding) ... ok
+test_header_tampering (test_codec.CodecTests.test_header_tampering) ... ok
+test_invalid_packet_and_wrong_keys (test_codec.CodecTests.test_invalid_packet_and_wrong_keys) ... ok
+test_random_iv (test_codec.CodecTests.test_random_iv) ... ok
+test_reject_bad_inputs (test_codec.CodecTests.test_reject_bad_inputs) ... ok
+test_single_error_injection_hamming_recovers_none_rejects (test_codec.CodecTests.test_single_error_injection_hamming_recovers_none_rejects) ... ok
+test_evaluate_rejects_either_incomplete_summary (test_session_security.SessionSecurityTests.test_evaluate_rejects_either_incomplete_summary)
+两份 WAV 即使同长度，也不能把中断的运行评价成正式完整结果。 ... ok
+test_replayed_ready_is_rejected_before_audio (test_session_security.SessionSecurityTests.test_replayed_ready_is_rejected_before_audio)
+旧合法签名不代表当前接收端确认了本次客户端的随机数。 ... ok
+test_complete_modes_and_evaluation (test_system.SystemTests.test_complete_modes_and_evaluation) ... ok
+test_disconnect_without_end_is_incomplete (test_system.SystemTests.test_disconnect_without_end_is_incomplete) ... ok
+test_fragmented_tcp_and_invalid_length (test_system.SystemTests.test_fragmented_tcp_and_invalid_length) ... ok
+test_wrong_key_never_completes (test_system.SystemTests.test_wrong_key_never_completes) ... ok
+
+----------------------------------------------------------------------
+Ran 29 tests in 8.938s
+
+OK
